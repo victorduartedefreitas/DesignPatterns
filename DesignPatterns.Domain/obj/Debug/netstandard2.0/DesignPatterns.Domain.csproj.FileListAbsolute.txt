@@ -1,0 +1,9 @@
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\bin\Debug\netstandard2.0\DesignPatterns.Domain.deps.json
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\bin\Debug\netstandard2.0\DesignPatterns.Domain.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\bin\Debug\netstandard2.0\DesignPatterns.Domain.pdb
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.csprojAssemblyReference.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.csproj.CoreCompileInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.AssemblyInfoInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.AssemblyInfo.cs
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Domain\obj\Debug\netstandard2.0\DesignPatterns.Domain.pdb

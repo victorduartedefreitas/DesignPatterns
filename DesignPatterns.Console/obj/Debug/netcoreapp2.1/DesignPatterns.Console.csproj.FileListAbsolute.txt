@@ -1,0 +1,8 @@
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp2.1\DesignPatterns.Console.deps.json
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp2.1\DesignPatterns.Console.runtimeconfig.json
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp2.1\DesignPatterns.Console.runtimeconfig.dev.json
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\bin\Debug\netcoreapp2.1\DesignPatterns.Console.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp2.1\DesignPatterns.Console.csprojAssemblyReference.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp2.1\DesignPatterns.Console.csproj.CoreCompileInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp2.1\DesignPatterns.Console.AssemblyInfoInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Console\obj\Debug\netcoreapp2.1\DesignPatterns.Console.AssemblyInfo.cs

@@ -1,0 +1,12 @@
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\bin\Debug\netstandard2.0\DesignPatterns.Db.Repository.deps.json
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\bin\Debug\netstandard2.0\DesignPatterns.Db.Repository.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\bin\Debug\netstandard2.0\DesignPatterns.Db.Repository.pdb
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\bin\Debug\netstandard2.0\DesignPatterns.Domain.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\bin\Debug\netstandard2.0\DesignPatterns.Domain.pdb
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.csprojAssemblyReference.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.csproj.CoreCompileInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.AssemblyInfoInputs.cache
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.AssemblyInfo.cs
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.csproj.CopyComplete
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.dll
+C:\Victor\Projetos_Pessoais\DesignPatterns\DesignPatterns.Db.Repository\obj\Debug\netstandard2.0\DesignPatterns.Db.Repository.pdb
