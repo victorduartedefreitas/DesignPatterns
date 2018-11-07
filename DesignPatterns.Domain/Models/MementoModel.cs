@@ -1,26 +1,55 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Text;
+﻿using System.Collections.Generic;
 
 namespace DesignPatterns.Domain.Models
 {
-    public abstract class MementoModel<T>
-        where T : class
+    public abstract class Memento
     {
-        protected Stack<T> PreviousStates = new Stack<T>();
-        protected Stack<T> NextStates = new Stack<T>();
+    }
 
-        public abstract void SaveState();
-        public abstract void RestoreState(T original);
+    public abstract class MementoModel<T>
+        where T : Memento
+    {
+        private Stack<T> _previousStates = new Stack<T>();
+        private Stack<T> _nextStates = new Stack<T>();
+
+        public abstract void Undo();
+        public abstract void Redo();
+        public abstract void SaveCurrentState();
 
         public bool CanUndo()
         {
-            return PreviousStates.Count > 0;
+            return _previousStates.Count > 0;
         }
 
         public bool CanRedo()
         {
-            return NextStates.Count > 0;
+            return _nextStates.Count > 0;
+        }
+
+        protected void SetPreviousState(T model)
+        {
+            _previousStates.Push(model);
+        }
+
+        protected T GetPreviousState()
+        {
+            if (CanUndo())
+                return _previousStates.Pop();
+
+            return null;
+        }
+
+        protected T GetNextState()
+        {
+            if (CanRedo())
+                return _nextStates.Pop();
+
+            return null;
+        }
+
+        protected void SetNextState(T model)
+        {
+            _nextStates.Push(model);
         }
     }
 }
